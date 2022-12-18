@@ -1,5 +1,7 @@
 # Gezgin Satıcı
 
+![Gezgin Satıcı](./assets/ss.png)
+
 Gezgin Satıcı is the program that can solve [Traveling Salesman Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem) in a few seconds.
 
 # License

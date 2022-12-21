@@ -2,7 +2,7 @@
 
 ![Gezgin Satıcı](./assets/ss.png)
 
-Gezgin Satıcı is the program that can solve [Traveling Salesman Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem) in a few seconds.
+Gezgin Satıcı is the program that can solve [Travelling Salesman Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem) in a few seconds.
 
 Written with [VLang](https://vlang.io) and [MUI](https://github.com/malisipi/mui).
 
